@@ -2,7 +2,7 @@
 game development beginner's pacman implementation.  
 
 # Description
-i implementate Pacman using google's easter egg game.
+i implementate Pacman using google's easter egg game. 
 this is almost the first game that can be called a game.  
 
 # Environment
